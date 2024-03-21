@@ -8,4 +8,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaEmplead.DAL\SistemaEmplead.DAL.csproj" />
+    <ProjectReference Include="..\SistemaEmplead.MODELOS\SistemaEmplead.MODELOS.csproj" />
+  </ItemGroup>
+
 </Project>
