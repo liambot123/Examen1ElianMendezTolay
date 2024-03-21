@@ -7,8 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using SistemaEmplead.BSS;
 using SistemaEmplead.MODELOS;
+using SistemEmpled.BSS;
 
 namespace SistemaEmpleados.VISTA.PersonaVistas
 {

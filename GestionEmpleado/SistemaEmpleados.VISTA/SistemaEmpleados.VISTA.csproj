@@ -9,8 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SistemaEmplead.DAL\SistemaEmplead.DAL.csproj" />
     <ProjectReference Include="..\SistemaEmplead.MODELOS\SistemaEmplead.MODELOS.csproj" />
+    <ProjectReference Include="..\SistemEmpled.BSS\SistemEmpled.BSS.csproj" />
   </ItemGroup>
 
 </Project>
